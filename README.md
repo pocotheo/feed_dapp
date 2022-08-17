@@ -1,16 +1,8 @@
 # feed_dapp
 
-A new Flutter project.
+A feed dApp in Flutter where I interacted with a smart contract on Ganache test blockchain. You can post messages on the feed that will appear on the blockchain.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<img width="315" alt="Screenshot 2022-08-17 at 09 34 37" src="https://user-images.githubusercontent.com/59797717/185051088-eb759915-0b0b-4b1b-8174-f2036d79d310.png">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
